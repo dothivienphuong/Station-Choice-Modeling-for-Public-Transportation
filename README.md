@@ -1,4 +1,4 @@
-# Station-Choice-Modeling-for-Public-Transportation
+# Station Choice Modeling for Public Transportation
 > **Project of Module Business Analytics | RWTH Aachen University**
 
 This repository contains the source code and datasets for modeling public transportation station choices, developed as part of the Business Analytics module.
